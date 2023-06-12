@@ -104,7 +104,6 @@ const footer = () => {
             </li>
           </ul>
         </div>
-        <p>&copy; 2022 All Right Reserved</p>
         <ul>
           <li>
             <a href="#">Privacy Policy</a>
@@ -116,6 +115,7 @@ const footer = () => {
             <a href="#">CA - Do not sell my Personal Information</a>
           </li>
         </ul>
+        <p>&copy; 2022 All Right Reserved</p>
       </div>
     </div>
   );
