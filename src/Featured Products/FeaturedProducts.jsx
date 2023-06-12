@@ -78,14 +78,14 @@ const FeaturedProducts = () => {
                   <div className="details">
                     <span className="vendor">{product.vendor}</span>
                     <h5 className="name">{product.name}</h5>
+                    <h5 className="price">Rs {product.price}</h5>
                     <ReactStars
                       count={5}
-                      size={24}
+                      size={15}
                       edit={false}
                       value={product.rating}
                       activeColor="#ffd700"
                     />
-                    <h5 className="price">Rs {product.Price}</h5>
                     <a href="#" className="product-cart">
                       <i className="fa-solid fa-cart-shopping"></i>
                     </a>
