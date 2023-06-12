@@ -9,7 +9,7 @@ const TrendingItems = () => {
         <div class="row">
           <div class="col4">
             <div class="image">
-              <img src="images/Trending Products/8.webp" alt="" />
+              <img src="https://thekalamstore.com/cdn/shop/products/photo36_1024x1024@2x.jpg?v=1660299084" alt="" />
             </div>
             <div class="desc">
               <span>Nazar brothers</span>
@@ -72,7 +72,7 @@ const TrendingItems = () => {
 
           <div class="col4">
             <div class="image">
-              <img src="../images/Trending Products/6.jpeg" alt="" />
+              <img src="https://thekalamstore.com/cdn/shop/products/photo36_1024x1024@2x.jpg?v=1660299084" alt="" />
             </div>
             <div class="desc">
               <span>Nazar brothers</span>
@@ -156,7 +156,7 @@ const TrendingItems = () => {
 
           <div class="col4">
             <div class="image">
-              <img src="../images/Trending Products/8.webp" alt="" />
+              <img src="https://thekalamstore.com/cdn/shop/products/photo36_1024x1024@2x.jpg?v=1660299084" alt="" />
             </div>
             <div class="desc">
               <span>Nazar brothers</span>

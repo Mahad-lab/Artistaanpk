@@ -28,28 +28,28 @@ library.add(faImages, faUsers, faLock, faThumbsUp, faComments, faGlobe);
 const serviceDataHomePage = [
   {
     id: 1,
-    icon: "https://img.freepik.com/premium-vector/set-art-supplies-artistic-materials-collection_783634-12.jpg",
+    icon: "https://vastphotos.com/files/uploads/welcome/vast-displays-infographic.jpg",
     title: "Browse a Vast Collection",
     description:
       "Explore an extensive selection of art pieces, ranging from paintings and sculptures to digital art and photography.",
   },
   {
     id: 2,
-    icon: "images/Services/connect-artist.png",
+    icon: "https://i.redd.it/658az740rzd31.jpg",
     title: "Connect with Talented Artists",
     description:
       "Engage directly with artists, learn about their inspirations, techniques, and stories behind their artwork.",
   },
   {
     id: 3,
-    icon: "images/Services/secure.jpg",
+    icon: "https://thumbs.dreamstime.com/b/secured-transaction-illustration-two-business-man-hand-using-payment-machine-credit-card-vector-96005068.jpg",
     title: "Secure Transactions",
     description:
       "Experience peace of mind with our secure payment system and buyer protection, ensuring a seamless and risk-free buying process.",
   },
   {
     id: 4,
-    icon: "images/Services/curated-art.jpg",
+    icon: "https://handwoven.aadyam.co.in/media/DS_PRICE_3_updated.jpg",
     title: "Curated Collections",
     description:
       "Discover handpicked collections of art curated by our experts, featuring different styles, themes, and emerging artists.",
@@ -63,7 +63,7 @@ const serviceDataHomePage = [
   },
   {
     id: 6,
-    icon: "images/Services/shipping.jpg",
+    icon: "http://live.americanebox.com/portals/0/Optimized%20Img/World-Shipping-Packages-worldwide.jpg?ver=2016-03-09-144917-023",
     title: "Worldwide Shipping",
     description:
       "We offer global shipping options, allowing art lovers from around the world to receive their favorite pieces conveniently.",
@@ -77,7 +77,7 @@ const Home = () => {
     <>
       <Meta title={"Artistan"} />
       <Header />
-      <ImageBox imgSource="images/bg3.jpg" />
+      <ImageBox imgSource="https://yourartbox.com/wp-content/uploads/2020/02/art-artwork-daytime-1321552-scaled.jpg" />
       <Slider />
       {/*<Collections />*/}
       {/*} <TrendingItems />*/}
